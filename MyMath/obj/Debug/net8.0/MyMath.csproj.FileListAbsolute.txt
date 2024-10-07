@@ -1,0 +1,11 @@
+C:\Users\xx\Desktop\MyProject\MyMath\bin\Debug\net8.0\MyMath.deps.json
+C:\Users\xx\Desktop\MyProject\MyMath\bin\Debug\net8.0\MyMath.dll
+C:\Users\xx\Desktop\MyProject\MyMath\bin\Debug\net8.0\MyMath.pdb
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfo.cs
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.dll
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\refint\MyMath.dll
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\MyMath.pdb
+C:\Users\xx\Desktop\MyProject\MyMath\obj\Debug\net8.0\ref\MyMath.dll
